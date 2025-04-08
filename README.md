@@ -6,7 +6,7 @@ Built using **React** on the frontend and **Node.js/Express** on the backend, th
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 
 Chef Claude allows users to:
 - Dynamically add ingredients
