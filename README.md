@@ -1,4 +1,4 @@
-# 👨‍🍳 Chef Claude — AI Recipe Generator
+# Chef Claude — AI Recipe Generator
 
 Chef Claude is a full-stack AI-powered web application that takes your available ingredients and generates creative recipes using advanced language models like **Claude 3 Haiku** (via Anthropic API) and **Mixtral-8x7B** (via HuggingFace Inference API). 
 
